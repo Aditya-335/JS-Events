@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 //challenge 1//
 window.onload = function () {
     var name = document.getElementById('user');
@@ -66,7 +66,7 @@ window.onload = function () {
     if(event.target.id==="blazers");
     console.log("blazers");
   });
-=======
+
 //challenge 1//
 window.onload = function () {
     var name = document.getElementById('user');
@@ -134,5 +134,5 @@ window.onload = function () {
     if(event.target.id==="blazers");
     console.log("blazers");
   });
->>>>>>> 0c1dc38941a4d60083fdf6a2e747668c0ef66ddd
+s
   
