@@ -134,5 +134,5 @@ window.onload = function () {
     if(event.target.id==="blazers");
     console.log("blazers");
   });
-s
+
   
