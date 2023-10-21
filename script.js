@@ -1,3 +1,4 @@
+
 //challenge 1//
 window.onload = function () {
     var name = document.getElementById('user');
@@ -65,4 +66,6 @@ window.onload = function () {
     if(event.target.id==="blazers");
     console.log("blazers");
   });
+  
+
   
